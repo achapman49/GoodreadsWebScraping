@@ -1,0 +1,5 @@
+This repo containts files and code used for a data science project I completed for my MSc Data Science and Artificial Intelligence at the University of London.
+
+The code was used to conduct analysis of data on Goodreads, including user-submitted reviews. You can read the final papers (part 1 and 2) in the 'Final Papers' folder.
+
+I include the code snippets to help anyone else who is interested in scraping data from Goodreads, since they have discontinued their API
